@@ -1,0 +1,106 @@
+HASIL EVALUASI OCR
+
+Ground Truth : Nomor ijazah: 571012022000056
+
+Spasi tidak dihitung sebagai karakter.
+Akurasi dihitung berdasarkan karakter yang berhasil dikenali sesuai dengan Ground Truth.
+
+CITRA 01
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | _ Nomor tazah: 571012022000056         | 25             | 92.59% |
+| Mean Filter     | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Median Filter   | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Gaussian Filter | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Sharpening      | S Nomor yazah: 571012022000056         | 25             | 92.59% |
+
+
+CITRA 02
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | | _ Nomor yazah: 571012022000056       | 25             | 92.59% |
+| Mean Filter     | | Nomor ijazah: 571012022000056        | 27             | 100.00% |
+| Median Filter   | | Nomor ijazah: 571012022000056        | 27             | 100.00% |
+| Gaussian Filter | | Nomor ijazah: 571012022000056        | 27             | 100.00% |
+| Sharpening      | | _ Nomor yjazah: 571012022000056      | 26             | 96.30% |
+
+
+CITRA 03
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Mean Filter     | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Median Filter   | Nomor ijazah: $71012022000056          | 26             | 96.30% |
+| Gaussian Filter | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Sharpening      | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+
+
+CITRA 04
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | -__ Nomor ijazah: 571012022000056      | 27             | 100.00% |
+| Mean Filter     | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Median Filter   | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Gaussian Filter | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Sharpening      | ___ Nomor ijazah: 571012022000056      | 27             | 100.00% |
+
+
+CITRA 05
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Mean Filter     | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Median Filter   | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Gaussian Filter | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Sharpening      | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+
+
+CITRA 06
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | _ Nomor yazah: 571012022000056         | 25             | 92.59% |
+| Mean Filter     | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Median Filter   | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Gaussian Filter | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Sharpening      | _ Nomor ijazah: 571012022000056        | 27             | 100.00% |
+
+
+CITRA 07
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | _ Nomor tazah: 571012022000056         | 25             | 92.59% |
+| Mean Filter     | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Median Filter   | Nomor tjazah: 571012022000056          | 26             | 96.30% |
+| Gaussian Filter | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Sharpening      | _ Nomor yazah: 571012022000056         | 25             | 92.59% |
+
+
+CITRA 08
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | _ Nomor iazah: 571012022000056         | 26             | 96.30% |
+| Mean Filter     | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Median Filter   | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Gaussian Filter | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Sharpening      | n Nomor ijazah: 571012022000056        | 27             | 100.00% |
+
+
+CITRA 09
+
+| Metode          | Hasil OCR                              | Karakter Benar | Akurasi |
+|-----------------|----------------------------------------|----------------|---------|
+| Original        | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Mean Filter     | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Median Filter   | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Gaussian Filter | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+| Sharpening      | Nomor ijazah: 571012022000056          | 27             | 100.00% |
+
+
